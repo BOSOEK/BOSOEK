@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello World! 👏 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoolgae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## I'm sunwoo Lee <img src="https://github.com/Johnjihwan/2020_Gsm_Hackathon/blob/master/img/gsm_h1.png" width="120" align="right">
+## I'm Kim Bo-seok <img src="https://github.com/Johnjihwan/2020_Gsm_Hackathon/blob/master/img/gsm_h1.png" width="120" align="right">
 
 - 🔭 Gwang ju software meister high school / South Korea
 - 🌱 Currently working on "TIL"
