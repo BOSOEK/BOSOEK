@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ***
 
-![BOSOEK's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![BOSOEK's github stats](https://github-readme-stats.vercel.app/api?username=BOSOEK&show_icons=true)
 
 
 
