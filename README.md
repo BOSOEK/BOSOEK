@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World!✌ [! [HitCount] (http://hits.dwyl.com/BOSOEK/ {project} .svg)] (http://hits.dwyl.com/BOSOEK/ {project})
+# Hello World!✌ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOSOEK%2Fhit-counter&count_bg=%233D48C8&title_bg=%23D61111&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## I'm Kim Bo-seok<img src="https://user-images.githubusercontent.com/68007145/99542300-3e119c80-29f5-11eb-8c89-839efd8f1516.png" width="180" align="right">
 
