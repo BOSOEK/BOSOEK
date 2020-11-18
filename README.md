@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🏫 In Gwangju Software Meister High School/Korea
 - ✍ Currently studying A.I
 - 💭 I will be an artificial intelligence-robot developer!
-- 📫  E-mail : thydcj@naver.com - Please e-mail about artificial intelligence
+- 📫  E-mail : thydcj@naver.com - Please e-mail about A.I
 - 🎃 Fun fact : I am cute
 
 ***
