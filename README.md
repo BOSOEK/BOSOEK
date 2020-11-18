@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # Hello World!✌
 
 ## I'm Kim Bo-seok
+<img src="https://user-images.githubusercontent.com/68007145/99542300-3e119c80-29f5-11eb-8c89-839efd8f1516.png">
 
 - 🏫 In Gwangju Software Meister High School/Korea
 - ✍ Currently studying A.I
