@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World!✌
+# Hello World!✌ [! [HitCount] (http://hits.dwyl.com/BOSOEK/ {project} .svg)] (http://hits.dwyl.com/BOSOEK/ {project})
 
-## I'm Kim Bo-seok<img src="https://user-images.githubusercontent.com/68007145/99542300-3e119c80-29f5-11eb-8c89-839efd8f1516.png" width="150" align="right">
+## I'm Kim Bo-seok<img src="https://user-images.githubusercontent.com/68007145/99542300-3e119c80-29f5-11eb-8c89-839efd8f1516.png" width="180" align="right">
 
 - 🏫 In Gwangju Software Meister High School/Korea
 - ✍ Currently studying A.I
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 🎃 Fun fact : I am cute
 
 ***
+
+
 
 
 
