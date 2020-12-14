@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 # Hello World!✌ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOSOEK%2Fhit-counter&count_bg=%23676DB0&title_bg=%23352F2F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+-->
 ## I'm Kim Bo-soek<img src="https://user-images.githubusercontent.com/68007145/99542300-3e119c80-29f5-11eb-8c89-839efd8f1516.png" width="180" align="right">
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=BOSOEK)](https://solved.ac/BOSOEK)
