@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ***
 
-### Contact about study is always welcome!!😍
+### Contact about study is always welcome!😍
