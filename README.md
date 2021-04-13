@@ -8,7 +8,7 @@
 
 ***
 
-![BOSOEK's github stats](https://github-readme-stats.vercel.app/api?username=BOSOEK&show_icons=true&theme=algolia)  ![Favorite language](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSOEK&layout=compact&theme=flag-india)
+![Favorite language](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSOEK&layout=compact&theme=flag-india)
 
 ***
 
