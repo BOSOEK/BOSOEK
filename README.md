@@ -3,4 +3,3 @@
 
 <a href='boseoggim08@gmail.com'><img src="https://img.shields.io/badge/boseoggim08@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com"/></a> 
 
-I am studying artificial intelligence
