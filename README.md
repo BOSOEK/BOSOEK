@@ -8,6 +8,6 @@
 ✅  I like creative **challenge**.      
 ✅  I am very interested in presenting and realizing **special ideas**.   
 ✅  I am very interested in the combination of **AI and other technologies**.   
-💪  **Pytorch, Tensorflow, Git, Docker, matplotlib**   
+💪  **Pytorch, Tensorflow, Git, matplotlib**   
 🔊  **All progress is made outside of familiar areas.**   
 
